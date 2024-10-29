@@ -2,6 +2,6 @@
   deps = [
     pkgs.python39
     pkgs.nodePackages.npm
-    pkgs.nodejs-20_x
+    pkgs.nodejs-18_x
   ];
 }
